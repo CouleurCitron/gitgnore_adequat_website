@@ -1,0 +1,5 @@
+.cvsignore
+*.bak
+*.old
+/www/custom/upload
+/www/content
