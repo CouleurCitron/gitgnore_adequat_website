@@ -3,3 +3,5 @@
 *.old
 /www/custom/upload
 /www/content
+/www/_compareTemp
+dwsync.xml
