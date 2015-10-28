@@ -5,3 +5,4 @@
 /www/content
 /www/_compareTemp
 dwsync.xml
+/nbproject
